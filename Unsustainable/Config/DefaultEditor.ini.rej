@@ -1,0 +1,18 @@
+diff a/Unsustainable/Config/DefaultEditor.ini b/Unsustainable/Config/DefaultEditor.ini	(rejected hunks)
+@@ -0,0 +1,15 @@
++[UnrealEd.SimpleMap]
++SimpleMapName=/Game/TP_SideScroller/Maps/SideScrollerExampleMap
++
++[EditoronlyBP]
++bAllowClassAndBlueprintPinMatching=true
++bReplaceBlueprintWithClass= true
++bDontLoadBlueprintOutsideEditor= true
++bBlueprintIsNotBlueprintType= true
++
++[/Script/UnrealEd.LevelEditor2DSettings]
++bEnableSnapLayers=True
++SnapAxis=X
+++SnapLayers=(Name="Foreground",Depth=1500.000000)
+++SnapLayers=(Name="Default",Depth=1200.000000)
+++SnapLayers=(Name="Background",Depth=900.000000)
+\ No newline at end of file
