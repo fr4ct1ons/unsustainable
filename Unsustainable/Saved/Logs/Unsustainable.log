@@ -2426,6 +2426,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.05-11.57.29:264][431]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
 [2019.10.05-11.57.29:264][431]MaterialEditorStats: Base pass vertex shader: 40 instructions
 [2019.10.05-11.57.29:264][431]MaterialEditorStats: Texture samplers: 3/16
+<<<<<<< HEAD
 [2019.10.05-11.58.17:501][659]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
 [2019.10.05-12.43.00:318][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.05-13.01.48:070][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
@@ -3836,3 +3837,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.05-18.12.21:101][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/FirstLevel" FILE="../../../../Repos/Unsustainable/Unsustainable/Content/Levels/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.10.05-18.12.21:207][946]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
 [2019.10.05-18.12.21:703][946]LogSavePackage: Moving '../../../../Repos/Unsustainable/Unsustainable/Saved/FirstLevelE7FD76154E84E05190829192375577A9.tmp' to '../../../../Repos/Unsustainable/Unsustainable/Content/Levels/FirstLevel.umap'
+=======
+>>>>>>> 5a0c3df4d6808dba845f4f0ea56c614718444e57
